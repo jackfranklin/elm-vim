@@ -70,7 +70,7 @@ else
 	hi def link elmImport Include
 	hi def link elmConditional Conditional
 	hi def link elmAlias StorageClass
-	hi def link elmOperator Comment
+	hi def link elmOperator Normal
 	hi def link elmType Identifier
 	hi def link elmNumberType Identifier
 	hi def link elmBraces Delimiter
